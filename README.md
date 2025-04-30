@@ -56,7 +56,7 @@ The analysis revealed significant activation patterns in brain regions associate
 6. Open Neuro. (2018). Dataset from Open Neuro. https://openneuro.org/datasets/ds000102/versions/00001
 
 ## License
-This work is licensed under [appropriate license].
+This work is licensed under Umar Mushtaq Mughal
 
 ## Contact
-For questions or collaborations, please contact [contact information]. 
+For questions or collaborations, please contact me
